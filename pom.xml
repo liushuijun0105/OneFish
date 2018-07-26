@@ -4,11 +4,11 @@
 	<modelVersion>4.0.0</modelVersion>
 
 	<groupId>com.ruoyi</groupId>
-	<artifactId>oFish</artifactId>
+	<artifactId>OneFish</artifactId>
 	<version>2.2.0</version>
 	<packaging>jar</packaging>
 
-	<name>oFish</name>
+	<name>OneFish</name>
 	<description>小鱼儿管理系统</description>
 
 	<parent>
